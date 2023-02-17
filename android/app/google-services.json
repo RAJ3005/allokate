@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "276102317584",
+    "project_id": "allokate-1b202",
+    "storage_bucket": "allokate-1b202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276102317584:android:515aec21ecd8836a516c95",
+        "android_client_info": {
+          "package_name": "ingeniousappstudios.com.allokate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276102317584-v033slfad4ohuk3cr477lfrcgt8sc46d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ingeniousappstudios.com.allokate",
+            "certificate_hash": "c9f074ebe4b4434a84b488fbc65f2c39c724ebaa"
+          }
+        },
+        {
+          "client_id": "276102317584-gn1415t5u26p6r9sq6anv51gsfc19bnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE800PveTuwaW8bw3IfAz4VOXvZp-H61U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276102317584-gn1415t5u26p6r9sq6anv51gsfc19bnd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276102317584-vb14li5k5ua66pcp4ploqqoscodep304.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ingeniousappstudios.com.allokate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
